@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nikita Yadav
-- 👀 I’m interested in Web Development, UI-UX Design, AI, etc
+- 🙋🏻‍♀️ Hi, I’m Nikita Yadav
+- 🤓 I’m interested in Web Development, UI-UX Design, AI, etc
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on any open source projects to upskill
+- 🤝 I’m looking to collaborate on any open source projects to upskill
 - 📫 How to reach me - https://www.linkedin.com/in/nikita-yadav-6b31611aa/
 
 <!---
